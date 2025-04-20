@@ -78,4 +78,4 @@ local function discordprint()
 end
 CreateThread(discordprint)
 
-lib.versionCheck('Error420Unknown/Error420_Paychecks')
+lib.versionCheck('LumaNodeStudios/LNS_Paychecks')
